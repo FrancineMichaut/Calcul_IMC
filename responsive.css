@@ -1,0 +1,35 @@
+@media all and (min-width: 300px) and (max-width: 915px){
+
+
+
+#formulaire{
+  
+    margin-left: -135px;
+    
+    
+}
+
+#btn{
+    margin-left: -100px;  
+}
+#res{
+    padding-left: -100px;
+    margin-left: -100px;
+
+}
+
+#grandEnsemble{
+   width: auto;
+   box-sizing: content-box;
+width: 100%;
+}
+#poids{
+    width: 230px;
+}
+#taille{
+    width: 230px; 
+}
+
+
+}
+

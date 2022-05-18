@@ -13,7 +13,7 @@ btn.addEventListener("click", function (e) {
 
     result = +p / (+t * +t)
     console.log('result : ', result)
-    resultat.innerHTML = `<p class="text-dark fw-bold"> ${+p / (+t * +t)} </p>`;
+    imc.innerHTML = `<p id="res" class="text-dark fw-bold"> ${+p / (+t * +t)} </p>`;
 
     if (+result <= 18.5) {
         alert("Attention votre IMC est bas");
